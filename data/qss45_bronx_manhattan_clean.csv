@@ -1,0 +1,603 @@
+NAME,MeanCommute,Transit,Income,Poverty,Unemployment,WorkAtHome,state,county,tract,Borough,GEOID
+"Census Tract 351, Bronx County, New York",45.2,43.2,71913.0,17.1,14.1,7.5,36,005,035100,Bronx,36005035100
+"Census Tract 367, Bronx County, New York",40.3,61.2,23720.0,49.8,15.4,2.4,36,005,036700,Bronx,36005036700
+"Census Tract 381, Bronx County, New York",45.4,65.0,25891.0,34.3,19.5,7.2,36,005,038100,Bronx,36005038100
+"Census Tract 388, Bronx County, New York",42.6,45.3,51298.0,20.5,24.5,1.5,36,005,038800,Bronx,36005038800
+"Census Tract 397, Bronx County, New York",29.1,36.3,21228.0,51.0,9.2,10.1,36,005,039700,Bronx,36005039700
+"Census Tract 399.01, Bronx County, New York",45.5,72.8,22747.0,47.4,18.1,6.2,36,005,039901,Bronx,36005039901
+"Census Tract 409, Bronx County, New York",47.4,71.4,46278.0,17.1,13.8,0.0,36,005,040900,Bronx,36005040900
+"Census Tract 420, Bronx County, New York",47.2,66.5,28125.0,25.2,10.5,0.6,36,005,042000,Bronx,36005042000
+"Census Tract 424, Bronx County, New York",56.4,55.1,57716.0,14.3,10.1,3.2,36,005,042400,Bronx,36005042400
+"Census Tract 428, Bronx County, New York",41.7,36.3,63017.0,9.3,7.8,5.5,36,005,042800,Bronx,36005042800
+"Census Tract 411, Bronx County, New York",37.6,61.5,41047.0,21.4,14.1,0.0,36,005,041100,Bronx,36005041100
+"Census Tract 413, Bronx County, New York",40.8,65.3,38796.0,21.9,13.8,1.8,36,005,041300,Bronx,36005041300
+"Census Tract 419, Bronx County, New York",48.8,71.1,45127.0,20.6,11.6,0.5,36,005,041900,Bronx,36005041900
+"Census Tract 277, Bronx County, New York",36.5,64.5,33095.0,33.5,14.6,1.7,36,005,027700,Bronx,36005027700
+"Census Tract 285, Bronx County, New York",42.1,54.9,54232.0,17.1,5.7,2.9,36,005,028500,Bronx,36005028500
+"Census Tract 286, Bronx County, New York",30.6,32.4,61563.0,21.6,9.8,1.9,36,005,028600,Bronx,36005028600
+"Census Tract 289, Bronx County, New York",41.9,54.9,47361.0,13.4,11.1,6.0,36,005,028900,Bronx,36005028900
+"Census Tract 312, Bronx County, New York",34.5,33.7,62275.0,4.0,10.4,2.9,36,005,031200,Bronx,36005031200
+"Census Tract 189, Bronx County, New York",38.7,52.7,21180.0,44.1,16.7,5.3,36,005,018900,Bronx,36005018900
+"Census Tract 199, Bronx County, New York",39.2,72.1,24914.0,38.1,13.4,1.6,36,005,019900,Bronx,36005019900
+"Census Tract 202, Bronx County, New York",45.7,59.6,38487.0,25.9,7.0,2.5,36,005,020200,Bronx,36005020200
+"Census Tract 206.01, Bronx County, New York",51.2,69.3,76429.0,16.1,17.2,3.2,36,005,020601,Bronx,36005020601
+"Census Tract 211, Bronx County, New York",38.5,60.5,23724.0,47.7,19.1,4.2,36,005,021100,Bronx,36005021100
+"Census Tract 212, Bronx County, New York",40.1,66.1,51443.0,13.7,14.7,1.7,36,005,021200,Bronx,36005021200
+"Census Tract 216.01, Bronx County, New York",46.0,69.4,25847.0,42.9,19.0,3.2,36,005,021601,Bronx,36005021601
+"Census Tract 256, Bronx County, New York",42.5,49.9,37236.0,27.9,29.1,2.7,36,005,025600,Bronx,36005025600
+"Census Tract 227.03, Bronx County, New York",33.4,62.4,45673.0,27.1,7.7,0.0,36,005,022703,Bronx,36005022703
+"Census Tract 237.02, Bronx County, New York",46.0,78.2,32500.0,35.1,13.8,2.3,36,005,023702,Bronx,36005023702
+"Census Tract 240, Bronx County, New York",41.0,62.1,34705.0,27.9,16.0,2.2,36,005,024000,Bronx,36005024000
+"Census Tract 263, Bronx County, New York",45.6,67.3,32663.0,34.4,13.2,9.3,36,005,026300,Bronx,36005026300
+"Census Tract 265, Bronx County, New York",43.3,65.3,31147.0,32.3,13.0,6.8,36,005,026500,Bronx,36005026500
+"Census Tract 281, Bronx County, New York",48.7,58.1,61886.0,7.6,14.8,3.5,36,005,028100,Bronx,36005028100
+"Census Tract 283, Bronx County, New York",38.2,50.6,24759.0,32.5,12.5,2.9,36,005,028300,Bronx,36005028300
+"Census Tract 314, Bronx County, New York",39.7,41.1,83393.0,5.7,7.7,1.3,36,005,031400,Bronx,36005031400
+"Census Tract 328, Bronx County, New York",36.1,52.1,30089.0,31.7,15.4,1.3,36,005,032800,Bronx,36005032800
+"Census Tract 374, Bronx County, New York",43.7,63.9,25974.0,39.4,18.6,3.6,36,005,037400,Bronx,36005037400
+"Census Tract 382, Bronx County, New York",40.3,48.0,46953.0,22.2,20.0,0.7,36,005,038200,Bronx,36005038200
+"Census Tract 23, Bronx County, New York",42.7,74.5,14479.0,54.2,18.9,4.1,36,005,002300,Bronx,36005002300
+"Census Tract 39, Bronx County, New York",42.9,83.6,25990.0,30.2,9.3,4.8,36,005,003900,Bronx,36005003900
+"Census Tract 54, Bronx County, New York",41.3,67.9,27380.0,41.7,8.9,3.9,36,005,005400,Bronx,36005005400
+"Census Tract 62, Bronx County, New York",41.6,66.7,24480.0,34.7,11.4,7.1,36,005,006200,Bronx,36005006200
+"Census Tract 68, Bronx County, New York",42.9,58.5,47232.0,22.5,12.5,1.1,36,005,006800,Bronx,36005006800
+"Census Tract 71, Bronx County, New York",44.4,68.3,38289.0,28.8,16.5,1.4,36,005,007100,Bronx,36005007100
+"Census Tract 86, Bronx County, New York",46.2,61.7,23045.0,39.1,9.4,0.6,36,005,008600,Bronx,36005008600
+"Census Tract 87, Bronx County, New York",44.5,70.7,29188.0,30.4,8.3,6.0,36,005,008700,Bronx,36005008700
+"Census Tract 293.01, Bronx County, New York",37.6,41.7,102045.0,10.4,10.8,9.0,36,005,029301,Bronx,36005029301
+"Census Tract 293.02, Bronx County, New York",46.3,38.0,94695.0,1.4,6.3,6.6,36,005,029302,Bronx,36005029302
+"Census Tract 309, Bronx County, New York",45.9,40.8,87238.0,3.1,5.5,10.3,36,005,030900,Bronx,36005030900
+"Census Tract 326, Bronx County, New York",39.8,35.1,56429.0,6.5,10.7,1.2,36,005,032600,Bronx,36005032600
+"Census Tract 332.01, Bronx County, New York",44.4,61.6,43038.0,22.3,14.8,3.7,36,005,033201,Bronx,36005033201
+"Census Tract 307.01, Bronx County, New York",42.8,38.1,80846.0,7.8,4.4,8.5,36,005,030701,Bronx,36005030701
+"Census Tract 332.02, Bronx County, New York",42.1,54.5,40638.0,23.1,17.3,0.3,36,005,033202,Bronx,36005033202
+"Census Tract 335, Bronx County, New York",39.2,43.0,86983.0,6.5,8.4,7.9,36,005,033500,Bronx,36005033500
+"Census Tract 337, Bronx County, New York",43.0,34.4,83917.0,5.8,8.0,6.0,36,005,033700,Bronx,36005033700
+"Census Tract 348, Bronx County, New York",52.5,60.6,36156.0,21.8,17.7,4.8,36,005,034800,Bronx,36005034800
+"Census Tract 360, Bronx County, New York",40.6,41.8,65938.0,7.9,15.3,0.0,36,005,036000,Bronx,36005036000
+"Census Tract 375.04, Bronx County, New York",42.1,60.8,15707.0,51.7,19.2,5.0,36,005,037504,Bronx,36005037504
+"Census Tract 383.01, Bronx County, New York",43.5,61.0,26295.0,39.9,16.2,6.3,36,005,038301,Bronx,36005038301
+"Census Tract 383.02, Bronx County, New York",52.2,79.6,22917.0,49.3,18.9,2.9,36,005,038302,Bronx,36005038302
+"Census Tract 395, Bronx County, New York",45.4,57.8,25702.0,34.7,12.7,5.5,36,005,039500,Bronx,36005039500
+"Census Tract 403.03, Bronx County, New York",46.8,75.2,40731.0,34.9,13.7,2.8,36,005,040303,Bronx,36005040303
+"Census Tract 235.02, Bronx County, New York",40.7,75.0,21582.0,41.8,17.1,6.0,36,005,023502,Bronx,36005023502
+"Census Tract 251, Bronx County, New York",40.9,72.9,28615.0,34.6,10.0,0.0,36,005,025100,Bronx,36005025100
+"Census Tract 255, Bronx County, New York",42.1,67.9,19458.0,50.3,17.2,3.4,36,005,025500,Bronx,36005025500
+"Census Tract 264, Bronx County, New York",37.7,34.0,72019.0,14.2,9.1,3.8,36,005,026400,Bronx,36005026400
+"Census Tract 336, Bronx County, New York",39.4,53.4,26071.0,31.6,13.0,0.6,36,005,033600,Bronx,36005033600
+"Census Tract 343, Bronx County, New York",43.2,42.7,71780.0,11.8,8.3,3.9,36,005,034300,Bronx,36005034300
+"Census Tract 20, Bronx County, New York",46.0,68.2,18086.0,53.2,17.2,0.0,36,005,002000,Bronx,36005002000
+"Census Tract 69, Bronx County, New York",38.3,63.8,19741.0,44.0,16.7,4.9,36,005,006900,Bronx,36005006900
+"Census Tract 129.01, Bronx County, New York",43.4,75.6,18269.0,48.9,14.1,5.8,36,005,012901,Bronx,36005012901
+"Census Tract 130, Bronx County, New York",39.2,30.4,77917.0,5.7,6.7,2.0,36,005,013000,Bronx,36005013000
+"Census Tract 369.01, Bronx County, New York",47.7,65.1,14821.0,53.3,20.7,6.5,36,005,036901,Bronx,36005036901
+"Census Tract 56, Bronx County, New York",40.0,65.0,17771.0,38.0,16.8,1.3,36,005,005600,Bronx,36005005600
+"Census Tract 27.02, Bronx County, New York",44.0,83.6,17147.0,52.7,10.6,0.5,36,005,002702,Bronx,36005002702
+"Census Tract 33, Bronx County, New York",42.5,68.4,19923.0,56.3,18.5,1.8,36,005,003300,Bronx,36005003300
+"Census Tract 72, Bronx County, New York",42.2,60.1,37634.0,33.4,7.4,2.3,36,005,007200,Bronx,36005007200
+"Census Tract 121.01, Bronx County, New York",46.4,77.7,27813.0,43.1,10.6,2.7,36,005,012101,Bronx,36005012101
+"Census Tract 121.02, Bronx County, New York",44.1,70.2,20028.0,49.6,17.7,0.0,36,005,012102,Bronx,36005012102
+"Census Tract 123, Bronx County, New York",43.3,69.6,21300.0,45.1,10.6,4.5,36,005,012300,Bronx,36005012300
+"Census Tract 133, Bronx County, New York",36.5,62.0,25282.0,25.5,15.0,2.1,36,005,013300,Bronx,36005013300
+"Census Tract 143, Bronx County, New York",39.7,73.1,12000.0,52.2,17.8,4.1,36,005,014300,Bronx,36005014300
+"Census Tract 144, Bronx County, New York",58.5,55.7,19418.0,46.4,19.7,0.4,36,005,014400,Bronx,36005014400
+"Census Tract 145, Bronx County, New York",52.4,69.0,22711.0,50.4,21.5,0.0,36,005,014500,Bronx,36005014500
+"Census Tract 166, Bronx County, New York",46.3,45.7,63421.0,10.2,9.1,5.7,36,005,016600,Bronx,36005016600
+"Census Tract 194, Bronx County, New York",43.5,39.2,51176.0,23.6,11.1,0.6,36,005,019400,Bronx,36005019400
+"Census Tract 213.01, Bronx County, New York",29.9,59.5,16378.0,48.2,13.3,6.3,36,005,021301,Bronx,36005021301
+"Census Tract 229.01, Bronx County, New York",36.3,63.7,24115.0,36.4,16.2,6.3,36,005,022901,Bronx,36005022901
+"Census Tract 132, Bronx County, New York",41.4,30.6,96701.0,7.0,7.5,0.0,36,005,013200,Bronx,36005013200
+"Census Tract 201, Bronx County, New York",37.9,63.2,24160.0,43.0,9.8,7.6,36,005,020100,Bronx,36005020100
+"Census Tract 390, Bronx County, New York",44.2,63.9,32364.0,37.4,26.5,0.0,36,005,039000,Bronx,36005039000
+"Census Tract 393, Bronx County, New York",43.2,61.0,20891.0,43.3,17.4,8.4,36,005,039300,Bronx,36005039300
+"Census Tract 403.02, Bronx County, New York",41.7,68.5,25724.0,35.3,13.3,5.7,36,005,040302,Bronx,36005040302
+"Census Tract 404, Bronx County, New York",41.6,48.0,36691.0,13.8,15.7,3.8,36,005,040400,Bronx,36005040400
+"Census Tract 407.01, Bronx County, New York",44.6,72.3,30354.0,36.5,9.8,1.2,36,005,040701,Bronx,36005040701
+"Census Tract 415, Bronx County, New York",42.3,72.7,42207.0,21.4,13.3,1.3,36,005,041500,Bronx,36005041500
+"Census Tract 436, Bronx County, New York",53.2,46.0,57564.0,14.2,10.0,2.3,36,005,043600,Bronx,36005043600
+"Census Tract 448, Bronx County, New York",49.0,43.1,78456.0,5.7,10.7,0.0,36,005,044800,Bronx,36005044800
+"Census Tract 516, Bronx County, New York",35.7,14.3,76771.0,4.0,7.4,4.6,36,005,051600,Bronx,36005051600
+"Census Tract 392, Bronx County, New York",53.9,59.5,39457.0,28.3,17.0,3.1,36,005,039200,Bronx,36005039200
+"Census Tract 389, Bronx County, New York",39.5,57.8,28240.0,48.0,14.5,4.4,36,005,038900,Bronx,36005038900
+"Census Tract 391, Bronx County, New York",40.8,57.1,30661.0,41.4,8.7,2.9,36,005,039100,Bronx,36005039100
+"Census Tract 394, Bronx County, New York",49.0,62.6,33708.0,31.7,16.7,3.1,36,005,039400,Bronx,36005039400
+"Census Tract 398, Bronx County, New York",41.3,32.1,70552.0,15.0,16.1,2.1,36,005,039800,Bronx,36005039800
+"Census Tract 414, Bronx County, New York",43.0,53.0,53750.0,12.8,19.2,1.2,36,005,041400,Bronx,36005041400
+"Census Tract 418, Bronx County, New York",43.3,50.0,37829.0,35.5,13.3,6.4,36,005,041800,Bronx,36005041800
+"Census Tract 422, Bronx County, New York",46.5,54.1,51701.0,11.7,13.7,0.0,36,005,042200,Bronx,36005042200
+"Census Tract 430, Bronx County, New York",38.2,49.1,52096.0,7.3,9.5,0.0,36,005,043000,Bronx,36005043000
+"Census Tract 431, Bronx County, New York",42.2,64.8,31028.0,30.1,12.5,3.5,36,005,043100,Bronx,36005043100
+"Census Tract 92, Bronx County, New York",48.4,67.9,35227.0,21.3,18.6,0.4,36,005,009200,Bronx,36005009200
+"Census Tract 127.01, Bronx County, New York",39.7,72.2,18641.0,49.4,9.0,0.5,36,005,012701,Bronx,36005012701
+"Census Tract 135, Bronx County, New York",41.6,68.2,23279.0,40.2,12.3,1.6,36,005,013500,Bronx,36005013500
+"Census Tract 138, Bronx County, New York",35.6,24.5,79773.0,5.5,7.9,2.2,36,005,013800,Bronx,36005013800
+"Census Tract 161, Bronx County, New York",44.0,69.8,12467.0,51.6,17.8,3.0,36,005,016100,Bronx,36005016100
+"Census Tract 195, Bronx County, New York",40.1,63.3,26706.0,34.4,15.0,7.2,36,005,019500,Bronx,36005019500
+"Census Tract 229.02, Bronx County, New York",40.3,64.2,24142.0,34.6,19.4,6.2,36,005,022902,Bronx,36005022902
+"Census Tract 233.02, Bronx County, New York",44.1,72.2,22566.0,50.1,14.0,7.5,36,005,023302,Bronx,36005023302
+"Census Tract 244, Bronx County, New York",41.6,41.8,59063.0,9.9,14.5,2.5,36,005,024400,Bronx,36005024400
+"Census Tract 269, Bronx County, New York",43.0,65.5,33365.0,34.8,16.1,1.6,36,005,026900,Bronx,36005026900
+"Census Tract 273, Bronx County, New York",44.5,67.5,42093.0,24.4,16.4,1.4,36,005,027300,Bronx,36005027300
+"Census Tract 295, Bronx County, New York",43.9,60.6,100750.0,5.9,5.0,3.9,36,005,029500,Bronx,36005029500
+"Census Tract 297, Bronx County, New York",45.7,42.9,93452.0,3.1,6.4,4.9,36,005,029700,Bronx,36005029700
+"Census Tract 310, Bronx County, New York",33.8,24.2,80724.0,11.0,7.1,3.4,36,005,031000,Bronx,36005031000
+"Census Tract 316, Bronx County, New York",36.7,34.1,70759.0,15.1,8.3,1.0,36,005,031600,Bronx,36005031600
+"Census Tract 318, Bronx County, New York",49.1,57.5,55739.0,12.7,13.8,4.2,36,005,031800,Bronx,36005031800
+"Census Tract 323, Bronx County, New York",44.2,45.2,87483.0,3.5,11.6,5.1,36,005,032300,Bronx,36005032300
+"Census Tract 324, Bronx County, New York",45.8,61.9,27946.0,33.1,9.4,1.0,36,005,032400,Bronx,36005032400
+"Census Tract 334, Bronx County, New York",39.9,53.2,45739.0,19.2,11.1,0.0,36,005,033400,Bronx,36005033400
+"Census Tract 363, Bronx County, New York",43.8,70.1,18499.0,48.7,27.2,0.0,36,005,036300,Bronx,36005036300
+"Census Tract 369.02, Bronx County, New York",52.4,67.3,25100.0,45.3,18.6,2.0,36,005,036902,Bronx,36005036902
+"Census Tract 373, Bronx County, New York",45.0,60.7,29033.0,37.3,13.6,4.0,36,005,037300,Bronx,36005037300
+"Census Tract 378, Bronx County, New York",40.4,59.2,35625.0,25.1,19.5,2.0,36,005,037800,Bronx,36005037800
+"Census Tract 379, Bronx County, New York",46.3,80.6,27841.0,43.1,16.9,1.3,36,005,037900,Bronx,36005037900
+"Census Tract 387, Bronx County, New York",34.3,46.1,19362.0,48.7,20.9,9.3,36,005,038700,Bronx,36005038700
+"Census Tract 396, Bronx County, New York",42.1,58.5,35221.0,27.8,18.7,3.2,36,005,039600,Bronx,36005039600
+"Census Tract 401, Bronx County, New York",44.5,71.0,33487.0,42.3,22.3,5.7,36,005,040100,Bronx,36005040100
+"Census Tract 406, Bronx County, New York",47.3,59.1,44773.0,26.7,7.1,2.9,36,005,040600,Bronx,36005040600
+"Census Tract 423, Bronx County, New York",42.6,58.0,31786.0,36.5,18.5,3.5,36,005,042300,Bronx,36005042300
+"Census Tract 425, Bronx County, New York",45.6,64.8,28643.0,35.1,19.1,7.3,36,005,042500,Bronx,36005042500
+"Census Tract 429.01, Bronx County, New York",45.0,70.1,39625.0,30.9,7.5,3.8,36,005,042901,Bronx,36005042901
+"Census Tract 442, Bronx County, New York",57.8,64.7,38603.0,26.5,14.1,1.1,36,005,044200,Bronx,36005044200
+"Census Tract 301, Bronx County, New York",42.1,36.2,76771.0,12.3,3.4,4.0,36,005,030100,Bronx,36005030100
+"Census Tract 167, Bronx County, New York",43.5,68.2,27222.0,43.8,15.5,2.7,36,005,016700,Bronx,36005016700
+"Census Tract 224.01, Bronx County, New York",43.3,71.1,43611.0,21.4,17.0,2.1,36,005,022401,Bronx,36005022401
+"Census Tract 28, Bronx County, New York",47.3,48.2,49529.0,8.5,12.8,2.7,36,005,002800,Bronx,36005002800
+"Census Tract 79, Bronx County, New York",41.1,71.0,24278.0,44.7,14.4,4.1,36,005,007900,Bronx,36005007900
+"Census Tract 158, Bronx County, New York",40.8,38.3,77045.0,11.5,7.5,3.2,36,005,015800,Bronx,36005015800
+"Census Tract 218, Bronx County, New York",43.6,56.6,37303.0,22.1,16.6,5.9,36,005,021800,Bronx,36005021800
+"Census Tract 338, Bronx County, New York",47.0,61.6,37043.0,33.4,18.4,2.8,36,005,033800,Bronx,36005033800
+"Census Tract 365.02, Bronx County, New York",41.0,77.7,19740.0,46.3,24.8,0.0,36,005,036502,Bronx,36005036502
+"Census Tract 160, Bronx County, New York",35.7,23.0,77216.0,3.3,6.9,4.1,36,005,016000,Bronx,36005016000
+"Census Tract 162, Bronx County, New York",36.2,32.3,70682.0,14.4,9.3,3.4,36,005,016200,Bronx,36005016200
+"Census Tract 165, Bronx County, New York",50.2,70.1,26645.0,33.9,11.0,3.7,36,005,016500,Bronx,36005016500
+"Census Tract 175, Bronx County, New York",39.3,65.0,22000.0,45.8,14.4,3.1,36,005,017500,Bronx,36005017500
+"Census Tract 215.01, Bronx County, New York",50.7,72.4,26076.0,38.1,12.9,2.3,36,005,021501,Bronx,36005021501
+"Census Tract 215.02, Bronx County, New York",38.3,67.2,18507.0,44.6,16.4,7.2,36,005,021502,Bronx,36005021502
+"Census Tract 230, Bronx County, New York",44.0,63.2,43929.0,23.5,15.3,4.5,36,005,023000,Bronx,36005023000
+"Census Tract 253, Bronx County, New York",44.8,71.7,30957.0,24.5,18.4,2.8,36,005,025300,Bronx,36005025300
+"Census Tract 261, Bronx County, New York",48.6,67.0,73688.0,8.0,6.5,1.3,36,005,026100,Bronx,36005026100
+"Census Tract 279, Bronx County, New York",47.2,66.3,55573.0,11.6,9.5,5.4,36,005,027900,Bronx,36005027900
+"Census Tract 300, Bronx County, New York",38.7,39.5,51806.0,11.1,5.7,4.0,36,005,030000,Bronx,36005030000
+"Census Tract 340, Bronx County, New York",43.0,55.9,34290.0,31.4,16.7,2.7,36,005,034000,Bronx,36005034000
+"Census Tract 344, Bronx County, New York",45.8,41.7,67813.0,14.6,13.0,1.3,36,005,034400,Bronx,36005034400
+"Census Tract 350, Bronx County, New York",41.3,40.1,52344.0,15.4,20.7,8.4,36,005,035000,Bronx,36005035000
+"Census Tract 361, Bronx County, New York",43.1,77.6,18799.0,44.6,36.2,2.8,36,005,036100,Bronx,36005036100
+"Census Tract 365.01, Bronx County, New York",45.2,72.4,21122.0,45.9,30.3,3.0,36,005,036501,Bronx,36005036501
+"Census Tract 200, Bronx County, New York",50.1,64.4,44771.0,27.4,14.7,3.5,36,005,020000,Bronx,36005020000
+"Census Tract 205.01, Bronx County, New York",39.1,64.6,23160.0,35.6,12.6,0.6,36,005,020501,Bronx,36005020501
+"Census Tract 205.02, Bronx County, New York",45.9,68.0,15343.0,43.0,7.9,2.8,36,005,020502,Bronx,36005020502
+"Census Tract 209, Bronx County, New York",38.3,65.8,27311.0,35.8,11.0,0.0,36,005,020900,Bronx,36005020900
+"Census Tract 210.01, Bronx County, New York",46.5,66.8,48396.0,14.5,11.6,1.1,36,005,021001,Bronx,36005021001
+"Census Tract 210.02, Bronx County, New York",49.0,66.6,43313.0,18.5,15.4,3.8,36,005,021002,Bronx,36005021002
+"Census Tract 217, Bronx County, New York",42.5,66.9,22721.0,51.1,14.3,4.3,36,005,021700,Bronx,36005021700
+"Census Tract 449.01, Bronx County, New York",47.2,45.4,67083.0,15.3,12.0,4.7,36,005,044901,Bronx,36005044901
+"Census Tract 462.01, Bronx County, New York",54.9,57.1,43205.0,6.9,11.8,1.2,36,005,046201,Bronx,36005046201
+"Census Tract 462.02, Bronx County, New York",48.5,57.9,40497.0,19.8,12.5,4.9,36,005,046202,Bronx,36005046202
+"Census Tract 225, Bronx County, New York",39.3,72.7,29302.0,36.1,15.6,1.0,36,005,022500,Bronx,36005022500
+"Census Tract 228, Bronx County, New York",44.3,60.0,45069.0,17.6,12.8,4.9,36,005,022800,Bronx,36005022800
+"Census Tract 232, Bronx County, New York",46.8,48.4,44318.0,23.4,17.6,2.2,36,005,023200,Bronx,36005023200
+"Census Tract 46, Bronx County, New York",33.7,47.1,40950.0,25.5,13.4,0.0,36,005,004600,Bronx,36005004600
+"Census Tract 60, Bronx County, New York",40.4,61.2,41190.0,35.2,11.1,4.7,36,005,006000,Bronx,36005006000
+"Census Tract 70, Bronx County, New York",45.4,72.5,34191.0,30.1,11.8,4.0,36,005,007000,Bronx,36005007000
+"Census Tract 73, Bronx County, New York",46.2,61.8,18358.0,50.7,20.2,12.0,36,005,007300,Bronx,36005007300
+"Census Tract 74, Bronx County, New York",45.4,46.4,44455.0,19.3,7.1,2.7,36,005,007400,Bronx,36005007400
+"Census Tract 75, Bronx County, New York",38.8,63.1,25452.0,31.7,8.5,2.7,36,005,007500,Bronx,36005007500
+"Census Tract 77, Bronx County, New York",40.2,60.2,26486.0,37.8,13.6,3.1,36,005,007700,Bronx,36005007700
+"Census Tract 89, Bronx County, New York",44.3,67.7,20849.0,32.5,6.5,4.1,36,005,008900,Bronx,36005008900
+"Census Tract 98, Bronx County, New York",48.3,49.8,57438.0,23.3,12.7,0.0,36,005,009800,Bronx,36005009800
+"Census Tract 125, Bronx County, New York",39.3,61.6,26348.0,42.9,13.5,3.0,36,005,012500,Bronx,36005012500
+"Census Tract 149, Bronx County, New York",41.6,52.9,27212.0,48.5,18.1,4.2,36,005,014900,Bronx,36005014900
+"Census Tract 197, Bronx County, New York",40.3,74.3,25875.0,35.7,9.3,3.1,36,005,019700,Bronx,36005019700
+"Census Tract 220, Bronx County, New York",42.0,81.6,23167.0,52.9,19.5,0.0,36,005,022000,Bronx,36005022000
+"Census Tract 227.02, Bronx County, New York",38.1,68.5,23500.0,34.8,17.4,10.1,36,005,022702,Bronx,36005022702
+"Census Tract 231, Bronx County, New York",42.1,82.4,24250.0,42.8,23.3,0.0,36,005,023100,Bronx,36005023100
+"Census Tract 235.01, Bronx County, New York",37.5,57.6,27316.0,50.8,10.2,1.5,36,005,023501,Bronx,36005023501
+"Census Tract 16, Bronx County, New York",38.8,45.5,32312.0,26.3,8.7,1.7,36,005,001600,Bronx,36005001600
+"Census Tract 31, Bronx County, New York",40.1,65.5,37250.0,18.1,6.6,0.0,36,005,003100,Bronx,36005003100
+"Census Tract 38, Bronx County, New York",41.3,47.3,37685.0,31.3,13.1,1.1,36,005,003800,Bronx,36005003800
+"Census Tract 41, Bronx County, New York",43.5,75.1,18636.0,53.3,19.2,0.8,36,005,004100,Bronx,36005004100
+"Census Tract 119, Bronx County, New York",44.3,76.8,22097.0,39.3,15.6,7.0,36,005,011900,Bronx,36005011900
+"Census Tract 115.02, Bronx County, New York",40.5,65.3,21765.0,47.6,18.5,2.7,36,005,011502,Bronx,36005011502
+"Census Tract 141, Bronx County, New York",43.8,70.6,32500.0,26.2,13.1,2.0,36,005,014100,Bronx,36005014100
+"Census Tract 151, Bronx County, New York",42.4,58.6,30339.0,28.2,10.4,1.8,36,005,015100,Bronx,36005015100
+"Census Tract 153, Bronx County, New York",43.7,71.1,19630.0,50.8,15.1,1.5,36,005,015300,Bronx,36005015300
+"Census Tract 221.01, Bronx County, New York",40.1,73.5,25870.0,41.8,11.6,6.2,36,005,022101,Bronx,36005022101
+"Census Tract 221.02, Bronx County, New York",39.7,76.4,18664.0,49.7,20.5,3.1,36,005,022102,Bronx,36005022102
+"Census Tract 222, Bronx County, New York",43.1,65.8,40331.0,28.7,14.0,0.7,36,005,022200,Bronx,36005022200
+"Census Tract 238, Bronx County, New York",40.9,46.1,50074.0,28.6,16.9,5.3,36,005,023800,Bronx,36005023800
+"Census Tract 224.03, Bronx County, New York",45.9,65.8,38333.0,25.2,15.7,6.6,36,005,022403,Bronx,36005022403
+"Census Tract 237.03, Bronx County, New York",40.7,71.2,27128.0,43.7,17.3,4.3,36,005,023703,Bronx,36005023703
+"Census Tract 245.01, Bronx County, New York",44.8,70.8,24864.0,45.4,19.4,2.5,36,005,024501,Bronx,36005024501
+"Census Tract 245.02, Bronx County, New York",39.4,62.5,25605.0,54.5,15.3,10.1,36,005,024502,Bronx,36005024502
+"Census Tract 224.04, Bronx County, New York",45.9,63.8,42070.0,20.6,6.4,2.2,36,005,022404,Bronx,36005022404
+"Census Tract 237.04, Bronx County, New York",43.8,58.8,20918.0,55.0,7.2,7.0,36,005,023704,Bronx,36005023704
+"Census Tract 267.01, Bronx County, New York",45.0,68.0,37061.0,29.4,12.0,1.1,36,005,026701,Bronx,36005026701
+"Census Tract 267.02, Bronx County, New York",40.9,56.1,39432.0,27.6,13.5,7.9,36,005,026702,Bronx,36005026702
+"Census Tract 274.01, Bronx County, New York",39.2,32.4,80673.0,4.5,9.9,0.5,36,005,027401,Bronx,36005027401
+"Census Tract 274.02, Bronx County, New York",34.9,22.8,71849.0,9.4,4.4,5.2,36,005,027402,Bronx,36005027402
+"Census Tract 429.02, Bronx County, New York",47.7,65.8,27553.0,34.8,23.4,2.1,36,005,042902,Bronx,36005042902
+"Census Tract 330, Bronx County, New York",46.9,73.8,37811.0,25.9,9.3,1.3,36,005,033000,Bronx,36005033000
+"Census Tract 358, Bronx County, New York",41.8,40.1,64957.0,6.1,18.2,3.4,36,005,035800,Bronx,36005035800
+"Census Tract 371, Bronx County, New York",42.3,56.1,19293.0,36.0,16.1,9.5,36,005,037100,Bronx,36005037100
+"Census Tract 385, Bronx County, New York",45.1,66.1,20229.0,54.0,17.3,3.2,36,005,038500,Bronx,36005038500
+"Census Tract 421, Bronx County, New York",36.1,56.6,36768.0,30.1,11.3,3.6,36,005,042100,Bronx,36005042100
+"Census Tract 451.01, Bronx County, New York",34.5,48.1,62286.0,3.1,7.8,1.9,36,005,045101,Bronx,36005045101
+"Census Tract 118, Bronx County, New York",34.7,25.6,83077.0,11.3,7.0,3.1,36,005,011800,Bronx,36005011800
+"Census Tract 204, Bronx County, New York",42.1,51.7,49519.0,18.1,20.5,2.5,36,005,020400,Bronx,36005020400
+"Census Tract 248, Bronx County, New York",37.8,45.6,52279.0,9.6,8.7,3.3,36,005,024800,Bronx,36005024800
+"Census Tract 408, Bronx County, New York",49.8,53.3,32244.0,26.0,16.7,9.6,36,005,040800,Bronx,36005040800
+"Census Tract 484, Bronx County, New York",42.9,49.4,69701.0,6.5,9.9,2.4,36,005,048400,Bronx,36005048400
+"Census Tract 247, Bronx County, New York",45.4,63.2,41455.0,29.3,8.1,3.4,36,005,024700,Bronx,36005024700
+"Census Tract 266.02, Bronx County, New York",42.3,55.5,40755.0,19.6,14.9,2.1,36,005,026602,Bronx,36005026602
+"Census Tract 364, Bronx County, New York",48.9,48.3,55833.0,5.5,11.7,2.8,36,005,036400,Bronx,36005036400
+"Census Tract 449.02, Bronx County, New York",44.8,46.7,62656.0,8.5,9.3,1.2,36,005,044902,Bronx,36005044902
+"Census Tract 223, Bronx County, New York",42.2,68.5,24277.0,41.4,15.3,2.2,36,005,022300,Bronx,36005022300
+"Census Tract 254, Bronx County, New York",34.5,35.4,50238.0,15.6,6.6,2.1,36,005,025400,Bronx,36005025400
+"Census Tract 296, Bronx County, New York",30.3,32.1,49013.0,14.4,9.3,6.9,36,005,029600,Bronx,36005029600
+"Census Tract 376, Bronx County, New York",51.9,62.0,50139.0,11.0,24.6,2.5,36,005,037600,Bronx,36005037600
+"Census Tract 27.01, Bronx County, New York",42.8,64.7,20153.0,52.6,15.2,1.6,36,005,002701,Bronx,36005002701
+"Census Tract 65, Bronx County, New York",35.9,73.5,21384.0,44.2,11.6,5.1,36,005,006500,Bronx,36005006500
+"Census Tract 67, Bronx County, New York",46.2,62.9,21016.0,47.1,14.6,5.7,36,005,006700,Bronx,36005006700
+"Census Tract 407.02, Bronx County, New York",41.1,69.4,29978.0,30.7,18.9,0.9,36,005,040702,Bronx,36005040702
+"Census Tract 157, Bronx County, New York",42.8,71.5,33785.0,26.7,22.6,1.4,36,005,015700,Bronx,36005015700
+"Census Tract 380, Bronx County, New York",39.7,58.6,33506.0,38.8,19.0,1.8,36,005,038000,Bronx,36005038000
+"Census Tract 25, Bronx County, New York",35.5,62.5,17226.0,50.5,9.4,2.7,36,005,002500,Bronx,36005002500
+"Census Tract 61, Bronx County, New York",37.5,64.5,48298.0,9.8,7.8,0.0,36,005,006100,Bronx,36005006100
+"Census Tract 227.01, Bronx County, New York",37.5,60.0,29426.0,30.1,13.2,5.1,36,005,022701,Bronx,36005022701
+"Census Tract 302, Bronx County, New York",45.8,51.7,51536.0,7.9,12.0,1.3,36,005,030200,Bronx,36005030200
+"Census Tract 342, Bronx County, New York",44.9,59.6,43304.0,17.5,17.5,0.0,36,005,034200,Bronx,36005034200
+"Census Tract 370, Bronx County, New York",43.8,41.9,51515.0,12.7,10.1,0.0,36,005,037000,Bronx,36005037000
+"Census Tract 372, Bronx County, New York",46.4,65.3,46250.0,19.0,17.3,0.0,36,005,037200,Bronx,36005037200
+"Census Tract 399.02, Bronx County, New York",41.4,67.4,24799.0,42.3,18.4,3.1,36,005,039902,Bronx,36005039902
+"Census Tract 426, Bronx County, New York",44.2,46.4,54306.0,16.6,13.8,1.3,36,005,042600,Bronx,36005042600
+"Census Tract 458, Bronx County, New York",53.2,70.3,16161.0,54.8,8.0,0.0,36,005,045800,Bronx,36005045800
+"Census Tract 460, Bronx County, New York",47.4,58.8,32340.0,29.5,15.0,2.2,36,005,046000,Bronx,36005046000
+"Census Tract 239, Bronx County, New York",40.8,69.6,20985.0,45.2,12.4,3.0,36,005,023900,Bronx,36005023900
+"Census Tract 241, Bronx County, New York",41.4,63.1,23856.0,38.6,15.9,4.8,36,005,024100,Bronx,36005024100
+"Census Tract 266.01, Bronx County, New York",42.7,54.9,52450.0,15.0,7.3,2.3,36,005,026601,Bronx,36005026601
+"Census Tract 287, Bronx County, New York",37.6,57.7,51692.0,24.6,10.7,4.6,36,005,028700,Bronx,36005028700
+"Census Tract 155, Bronx County, New York",45.0,72.7,21136.0,51.7,31.1,0.0,36,005,015500,Bronx,36005015500
+"Census Tract 236, Bronx County, New York",40.5,60.1,40903.0,32.2,13.3,1.1,36,005,023600,Bronx,36005023600
+"Census Tract 243, Bronx County, New York",41.3,62.3,19669.0,45.3,16.6,3.6,36,005,024300,Bronx,36005024300
+"Census Tract 40.01, Bronx County, New York",47.4,62.9,48056.0,16.6,6.8,0.0,36,005,004001,Bronx,36005004001
+"Census Tract 43, Bronx County, New York",39.6,66.4,21448.0,46.6,15.6,4.0,36,005,004300,Bronx,36005004300
+"Census Tract 52, Bronx County, New York",43.2,54.0,17756.0,49.3,13.5,9.0,36,005,005200,Bronx,36005005200
+"Census Tract 64, Bronx County, New York",46.7,63.8,30726.0,41.1,12.2,2.1,36,005,006400,Bronx,36005006400
+"Census Tract 78, Bronx County, New York",37.6,57.6,30437.0,31.0,15.7,3.1,36,005,007800,Bronx,36005007800
+"Census Tract 85, Bronx County, New York",37.9,66.7,27174.0,39.3,15.1,1.9,36,005,008500,Bronx,36005008500
+"Census Tract 131, Bronx County, New York",42.8,67.2,25271.0,35.5,11.5,4.9,36,005,013100,Bronx,36005013100
+"Census Tract 164, Bronx County, New York",31.6,35.4,60682.0,10.1,14.6,8.1,36,005,016400,Bronx,36005016400
+"Census Tract 184, Bronx County, New York",34.3,32.7,60518.0,14.5,7.1,3.1,36,005,018400,Bronx,36005018400
+"Census Tract 193, Bronx County, New York",44.6,67.9,23267.0,50.9,18.7,1.0,36,005,019300,Bronx,36005019300
+"Census Tract 213.02, Bronx County, New York",40.4,66.8,30362.0,34.8,12.9,0.0,36,005,021302,Bronx,36005021302
+"Census Tract 216.02, Bronx County, New York",48.6,74.6,41487.0,20.3,11.2,0.6,36,005,021602,Bronx,36005021602
+"Census Tract 219, Bronx County, New York",42.6,68.8,31292.0,29.1,9.1,1.9,36,005,021900,Bronx,36005021900
+"Census Tract 19, Bronx County, New York",45.4,63.9,37936.0,37.1,19.2,6.2,36,005,001900,Bronx,36005001900
+"Census Tract 42, Bronx County, New York",48.5,68.9,25741.0,40.5,21.0,1.0,36,005,004200,Bronx,36005004200
+"Census Tract 51, Bronx County, New York",43.6,92.2,18633.0,49.4,22.6,0.5,36,005,005100,Bronx,36005005100
+"Census Tract 50.01, Bronx County, New York",48.2,69.6,27456.0,34.4,14.5,3.3,36,005,005001,Bronx,36005005001
+"Census Tract 50.02, Bronx County, New York",48.2,75.1,28039.0,45.6,13.3,3.3,36,005,005002,Bronx,36005005002
+"Census Tract 53, Bronx County, New York",56.8,78.7,17719.0,54.7,23.7,0.0,36,005,005300,Bronx,36005005300
+"Census Tract 63, Bronx County, New York",41.4,73.3,32064.0,27.7,12.8,0.0,36,005,006300,Bronx,36005006300
+"Census Tract 76, Bronx County, New York",39.4,61.0,33465.0,34.6,9.4,2.3,36,005,007600,Bronx,36005007600
+"Census Tract 90, Bronx County, New York",43.8,47.8,27000.0,36.7,14.6,4.4,36,005,009000,Bronx,36005009000
+"Census Tract 93, Bronx County, New York",40.1,45.4,30159.0,40.7,9.5,3.9,36,005,009300,Bronx,36005009300
+"Census Tract 96, Bronx County, New York",38.0,52.4,41250.0,15.6,17.1,3.7,36,005,009600,Bronx,36005009600
+"Census Tract 117, Bronx County, New York",38.3,55.3,25483.0,33.4,16.8,5.6,36,005,011700,Bronx,36005011700
+"Census Tract 147.01, Bronx County, New York",46.0,78.7,14334.0,61.0,24.8,2.6,36,005,014701,Bronx,36005014701
+"Census Tract 288, Bronx County, New York",31.8,28.0,91125.0,4.9,3.6,1.4,36,005,028800,Bronx,36005028800
+"Census Tract 451.02, Bronx County, New York",34.6,33.9,80139.0,4.6,4.7,0.8,36,005,045102,Bronx,36005045102
+"Census Tract 345, Bronx County, New York",42.4,43.2,61938.0,15.3,6.9,6.6,36,005,034500,Bronx,36005034500
+"Census Tract 356, Bronx County, New York",45.3,47.4,60694.0,5.6,12.5,1.9,36,005,035600,Bronx,36005035600
+"Census Tract 359, Bronx County, New York",45.0,50.8,22250.0,44.4,23.1,8.2,36,005,035900,Bronx,36005035900
+"Census Tract 368, Bronx County, New York",46.2,48.1,43889.0,19.2,22.6,0.6,36,005,036800,Bronx,36005036800
+"Census Tract 386, Bronx County, New York",48.8,62.2,54904.0,13.3,13.2,0.2,36,005,038600,Bronx,36005038600
+"Census Tract 4, Bronx County, New York",45.0,44.6,74836.0,13.2,9.5,2.1,36,005,000400,Bronx,36005000400
+"Census Tract 2, Bronx County, New York",43.0,38.6,72034.0,20.0,7.7,0.0,36,005,000200,Bronx,36005000200
+"Census Tract 35, Bronx County, New York",41.6,64.7,26541.0,36.3,11.8,4.7,36,005,003500,Bronx,36005003500
+"Census Tract 44, Bronx County, New York",43.2,72.4,22719.0,34.8,26.1,2.8,36,005,004400,Bronx,36005004400
+"Census Tract 48, Bronx County, New York",42.1,71.0,30301.0,33.2,14.0,3.4,36,005,004800,Bronx,36005004800
+"Census Tract 59.02, Bronx County, New York",40.1,66.5,38542.0,26.9,14.2,8.7,36,005,005902,Bronx,36005005902
+"Census Tract 83, Bronx County, New York",42.1,74.2,19818.0,41.9,14.1,3.5,36,005,008300,Bronx,36005008300
+"Census Tract 84, Bronx County, New York",41.8,54.2,60135.0,13.6,10.2,0.0,36,005,008400,Bronx,36005008400
+"Census Tract 147.02, Bronx County, New York",44.9,80.9,17782.0,57.8,19.7,2.2,36,005,014702,Bronx,36005014702
+"Census Tract 152, Bronx County, New York",36.3,33.0,70162.0,14.0,8.5,1.7,36,005,015200,Bronx,36005015200
+"Census Tract 159, Bronx County, New York",46.3,67.6,16027.0,51.0,13.1,1.6,36,005,015900,Bronx,36005015900
+"Census Tract 177.01, Bronx County, New York",30.2,49.9,25022.0,46.7,15.6,0.0,36,005,017701,Bronx,36005017701
+"Census Tract 177.02, Bronx County, New York",41.2,62.4,23485.0,42.1,15.7,8.9,36,005,017702,Bronx,36005017702
+"Census Tract 179.01, Bronx County, New York",39.7,68.0,21376.0,44.3,15.7,6.3,36,005,017901,Bronx,36005017901
+"Census Tract 179.02, Bronx County, New York",43.3,75.9,20852.0,41.3,13.9,10.7,36,005,017902,Bronx,36005017902
+"Census Tract 181.01, Bronx County, New York",41.1,68.0,27371.0,34.5,12.0,2.4,36,005,018101,Bronx,36005018101
+"Census Tract 181.02, Bronx County, New York",41.0,80.4,38250.0,33.7,14.8,3.0,36,005,018102,Bronx,36005018102
+"Census Tract 183.01, Bronx County, New York",35.8,56.0,29987.0,23.9,16.3,8.0,36,005,018301,Bronx,36005018301
+"Census Tract 183.02, Bronx County, New York",43.5,65.3,31324.0,36.4,16.8,9.3,36,005,018302,Bronx,36005018302
+"Census Tract 185, Bronx County, New York",48.4,65.1,26496.0,43.8,19.7,8.7,36,005,018500,Bronx,36005018500
+"Census Tract 403.04, Bronx County, New York",40.6,66.3,34643.0,34.4,17.5,5.4,36,005,040304,Bronx,36005040304
+"Census Tract 405.01, Bronx County, New York",40.5,75.3,34009.0,26.6,12.9,3.0,36,005,040501,Bronx,36005040501
+"Census Tract 405.02, Bronx County, New York",37.5,65.4,23583.0,37.2,20.9,1.9,36,005,040502,Bronx,36005040502
+"Census Tract 434, Bronx County, New York",46.1,50.3,43722.0,14.7,12.7,1.7,36,005,043400,Bronx,36005043400
+"Census Tract 444, Bronx County, New York",50.8,52.6,67727.0,17.0,10.3,4.5,36,005,044400,Bronx,36005044400
+"Census Tract 456, Bronx County, New York",44.4,37.3,74254.0,7.4,5.5,3.4,36,005,045600,Bronx,36005045600
+"Census Tract 233.01, Bronx County, New York",38.7,62.8,26250.0,36.6,13.2,4.0,36,005,023301,Bronx,36005023301
+"Census Tract 169, Bronx County, New York",40.4,61.0,27697.0,39.4,25.2,0.0,36,005,016900,Bronx,36005016900
+"Census Tract 173, Bronx County, New York",44.1,75.8,18720.0,36.7,17.5,2.4,36,005,017300,Bronx,36005017300
+"Census Tract 246, Bronx County, New York",38.9,41.7,63516.0,5.8,8.9,2.0,36,005,024600,Bronx,36005024600
+"Census Tract 250, Bronx County, New York",36.0,37.9,54726.0,11.8,9.0,4.3,36,005,025000,Bronx,36005025000
+"Census Tract 252, Bronx County, New York",36.2,41.2,60625.0,23.8,10.8,0.4,36,005,025200,Bronx,36005025200
+"Census Tract 257, Bronx County, New York",41.0,74.3,28203.0,28.0,18.0,0.0,36,005,025700,Bronx,36005025700
+"Census Tract 30.02, New York County, New York",29.6,59.5,50625.0,18.7,3.9,3.1,36,061,003002,Manhattan,36061003002
+"Census Tract 63, New York County, New York",25.6,57.2,113284.0,4.0,5.8,5.9,36,061,006300,Manhattan,36061006300
+"Census Tract 178, New York County, New York",36.5,69.8,32896.0,24.6,7.6,4.0,36,061,017800,Manhattan,36061017800
+"Census Tract 188, New York County, New York",34.0,71.6,29146.0,29.7,12.5,1.2,36,061,018800,Manhattan,36061018800
+"Census Tract 203, New York County, New York",22.2,35.4,36667.0,26.6,6.7,10.2,36,061,020300,Manhattan,36061020300
+"Census Tract 139, New York County, New York",30.0,56.2,91952.0,7.3,5.7,10.4,36,061,013900,Manhattan,36061013900
+"Census Tract 145, New York County, New York",25.4,50.9,161685.0,4.4,4.7,10.7,36,061,014500,Manhattan,36061014500
+"Census Tract 147, New York County, New York",24.5,48.5,137328.0,3.0,3.8,5.7,36,061,014700,Manhattan,36061014700
+"Census Tract 64, New York County, New York",25.0,56.2,96090.0,8.6,4.3,6.6,36,061,006400,Manhattan,36061006400
+"Census Tract 65, New York County, New York",22.7,59.6,97718.0,12.3,3.4,6.1,36,061,006500,Manhattan,36061006500
+"Census Tract 197.02, New York County, New York",31.2,67.7,63135.0,25.7,5.5,15.6,36,061,019702,Manhattan,36061019702
+"Census Tract 191, New York County, New York",31.4,70.0,83188.0,10.2,5.0,5.7,36,061,019100,Manhattan,36061019100
+"Census Tract 197.01, New York County, New York",31.2,70.3,72000.0,36.9,8.1,8.6,36,061,019701,Manhattan,36061019701
+"Census Tract 206, New York County, New York",33.0,71.3,39468.0,25.1,8.2,4.7,36,061,020600,Manhattan,36061020600
+"Census Tract 218, New York County, New York",34.4,75.6,47155.0,39.0,12.5,6.9,36,061,021800,Manhattan,36061021800
+"Census Tract 9, New York County, New York",26.1,51.9,147500.0,6.0,2.8,10.4,36,061,000900,Manhattan,36061000900
+"Census Tract 36.01, New York County, New York",23.9,53.1,44286.0,32.9,14.8,5.3,36,061,003601,Manhattan,36061003601
+"Census Tract 45, New York County, New York",24.1,53.9,139079.0,3.8,3.3,17.3,36,061,004500,Manhattan,36061004500
+"Census Tract 55.02, New York County, New York",27.5,61.0,138523.0,12.8,4.4,6.7,36,061,005502,Manhattan,36061005502
+"Census Tract 56, New York County, New York",25.3,68.2,115521.0,19.6,11.4,5.9,36,061,005600,Manhattan,36061005600
+"Census Tract 62, New York County, New York",24.8,40.1,82102.0,36.9,7.4,3.8,36,061,006200,Manhattan,36061006200
+"Census Tract 77, New York County, New York",22.8,54.9,127729.0,3.5,4.2,8.7,36,061,007700,Manhattan,36061007700
+"Census Tract 80, New York County, New York",23.6,32.2,110242.0,10.5,4.9,12.4,36,061,008000,Manhattan,36061008000
+"Census Tract 90, New York County, New York",26.8,37.0,119196.0,8.9,2.2,8.4,36,061,009000,Manhattan,36061009000
+"Census Tract 92, New York County, New York",25.5,37.2,122379.0,5.4,1.7,7.4,36,061,009200,Manhattan,36061009200
+"Census Tract 283, New York County, New York",46.4,68.9,49612.0,12.3,6.1,4.6,36,061,028300,Manhattan,36061028300
+"Census Tract 291, New York County, New York",45.0,66.3,28743.0,28.9,21.1,3.4,36,061,029100,Manhattan,36061029100
+"Census Tract 295, New York County, New York",42.0,65.3,65160.0,14.7,13.1,9.5,36,061,029500,Manhattan,36061029500
+"Census Tract 255, New York County, New York",29.7,49.4,50228.0,28.8,11.7,11.8,36,061,025500,Manhattan,36061025500
+"Census Tract 222, New York County, New York",36.4,80.3,32361.0,42.8,6.8,4.9,36,061,022200,Manhattan,36061022200
+"Census Tract 125, New York County, New York",23.4,36.4,150682.0,8.8,3.1,3.1,36,061,012500,Manhattan,36061012500
+"Census Tract 201.01, New York County, New York",18.5,38.4,82353.0,16.2,4.2,10.6,36,061,020101,Manhattan,36061020101
+"Census Tract 78, New York County, New York",29.6,41.7,120205.0,7.6,6.9,6.1,36,061,007800,Manhattan,36061007800
+"Census Tract 112.02, New York County, New York",17.1,10.3,192857.0,4.5,0.0,13.5,36,061,011202,Manhattan,36061011202
+"Census Tract 174.01, New York County, New York",39.6,68.4,21435.0,36.6,10.4,9.5,36,061,017401,Manhattan,36061017401
+"Census Tract 207.01, New York County, New York",19.7,31.4,60798.0,29.6,2.4,13.1,36,061,020701,Manhattan,36061020701
+"Census Tract 32, New York County, New York",30.8,59.7,71033.0,10.9,4.4,6.7,36,061,003200,Manhattan,36061003200
+"Census Tract 146.01, New York County, New York",32.2,68.8,120257.0,3.8,2.6,5.7,36,061,014601,Manhattan,36061014601
+"Census Tract 165, New York County, New York",33.9,71.2,126346.0,6.2,4.1,11.6,36,061,016500,Manhattan,36061016500
+"Census Tract 279, New York County, New York",37.4,65.5,48242.0,14.9,9.6,4.9,36,061,027900,Manhattan,36061027900
+"Census Tract 112.03, New York County, New York",20.9,27.1,128083.0,10.9,1.9,7.2,36,061,011203,Manhattan,36061011203
+"Census Tract 184, New York County, New York",36.6,70.3,25581.0,33.2,9.6,2.1,36,061,018400,Manhattan,36061018400
+"Census Tract 2.02, New York County, New York",30.9,41.5,29684.0,24.6,15.1,7.0,36,061,000202,Manhattan,36061000202
+"Census Tract 15.02, New York County, New York",23.7,60.8,133209.0,8.3,3.5,5.8,36,061,001502,Manhattan,36061001502
+"Census Tract 22.02, New York County, New York",29.1,58.4,68750.0,17.4,5.5,2.9,36,061,002202,Manhattan,36061002202
+"Census Tract 27, New York County, New York",26.5,49.2,57171.0,11.8,4.5,4.0,36,061,002700,Manhattan,36061002700
+"Census Tract 47, New York County, New York",23.7,55.7,101786.0,11.2,5.1,8.3,36,061,004700,Manhattan,36061004700
+"Census Tract 50, New York County, New York",23.6,58.2,102723.0,8.0,10.4,2.9,36,061,005000,Manhattan,36061005000
+"Census Tract 95, New York County, New York",22.1,39.3,145956.0,13.7,8.4,13.6,36,061,009500,Manhattan,36061009500
+"Census Tract 98, New York County, New York",24.6,42.8,122331.0,4.1,2.9,6.0,36,061,009800,Manhattan,36061009800
+"Census Tract 208, New York County, New York",36.4,70.8,42220.0,25.6,11.0,6.3,36,061,020800,Manhattan,36061020800
+"Census Tract 174.02, New York County, New York",31.6,66.4,37426.0,29.1,13.6,7.3,36,061,017402,Manhattan,36061017402
+"Census Tract 187, New York County, New York",31.5,60.4,110385.0,12.0,5.3,9.1,36,061,018700,Manhattan,36061018700
+"Census Tract 189, New York County, New York",35.7,75.7,28158.0,36.0,16.5,2.2,36,061,018900,Manhattan,36061018900
+"Census Tract 210, New York County, New York",39.7,80.5,29811.0,34.5,11.8,3.3,36,061,021000,Manhattan,36061021000
+"Census Tract 225, New York County, New York",38.4,73.9,48157.0,27.2,12.2,6.2,36,061,022500,Manhattan,36061022500
+"Census Tract 243.01, New York County, New York",41.3,69.5,38067.0,32.5,18.4,9.3,36,061,024301,Manhattan,36061024301
+"Census Tract 243.02, New York County, New York",44.9,68.6,20371.0,42.6,29.7,4.8,36,061,024302,Manhattan,36061024302
+"Census Tract 273, New York County, New York",40.3,68.0,74621.0,17.0,11.6,10.1,36,061,027300,Manhattan,36061027300
+"Census Tract 287, New York County, New York",41.6,74.5,46891.0,26.7,10.2,3.0,36,061,028700,Manhattan,36061028700
+"Census Tract 309, New York County, New York",38.7,60.0,27513.0,30.4,13.2,4.5,36,061,030900,Manhattan,36061030900
+"Census Tract 40, New York County, New York",30.3,63.2,85338.0,13.0,4.1,6.8,36,061,004000,Manhattan,36061004000
+"Census Tract 26.01, New York County, New York",33.4,59.5,43854.0,25.6,8.4,1.5,36,061,002601,Manhattan,36061002601
+"Census Tract 26.02, New York County, New York",30.7,42.4,70037.0,14.2,2.8,3.8,36,061,002602,Manhattan,36061002602
+"Census Tract 104, New York County, New York",28.7,34.7,111806.0,7.9,6.2,15.9,36,061,010400,Manhattan,36061010400
+"Census Tract 119, New York County, New York",16.5,23.9,11671.0,55.5,12.9,15.6,36,061,011900,Manhattan,36061011900
+"Census Tract 132, New York County, New York",33.3,58.9,78647.0,7.0,3.9,2.6,36,061,013200,Manhattan,36061013200
+"Census Tract 134, New York County, New York",27.0,59.4,97801.0,14.3,4.6,3.6,36,061,013400,Manhattan,36061013400
+"Census Tract 136, New York County, New York",31.5,58.2,108587.0,3.1,4.3,6.2,36,061,013600,Manhattan,36061013600
+"Census Tract 144.02, New York County, New York",33.9,58.8,117656.0,5.4,3.8,11.1,36,061,014402,Manhattan,36061014402
+"Census Tract 148.01, New York County, New York",29.4,66.7,167667.0,4.4,3.0,6.2,36,061,014801,Manhattan,36061014801
+"Census Tract 157, New York County, New York",28.3,63.9,122734.0,6.5,3.7,12.8,36,061,015700,Manhattan,36061015700
+"Census Tract 158.01, New York County, New York",29.1,61.9,136750.0,4.8,6.1,9.3,36,061,015801,Manhattan,36061015801
+"Census Tract 161, New York County, New York",29.5,65.3,126727.0,2.8,4.1,3.9,36,061,016100,Manhattan,36061016100
+"Census Tract 164, New York County, New York",36.9,66.2,33493.0,24.1,11.1,1.2,36,061,016400,Manhattan,36061016400
+"Census Tract 196, New York County, New York",35.6,80.2,19045.0,37.3,9.2,5.2,36,061,019600,Manhattan,36061019600
+"Census Tract 180, New York County, New York",34.6,79.1,31842.0,25.7,10.9,1.3,36,061,018000,Manhattan,36061018000
+"Census Tract 185, New York County, New York",35.8,71.8,91776.0,7.2,8.0,9.6,36,061,018500,Manhattan,36061018500
+"Census Tract 190, New York County, New York",34.9,78.0,58750.0,17.7,4.8,4.0,36,061,019000,Manhattan,36061019000
+"Census Tract 193, New York County, New York",30.1,71.6,32236.0,32.1,12.0,0.0,36,061,019300,Manhattan,36061019300
+"Census Tract 194, New York County, New York",32.2,70.6,27273.0,54.5,9.7,4.0,36,061,019400,Manhattan,36061019400
+"Census Tract 212, New York County, New York",31.4,65.1,52263.0,9.2,14.7,7.3,36,061,021200,Manhattan,36061021200
+"Census Tract 224, New York County, New York",37.0,73.6,25000.0,45.5,11.7,7.8,36,061,022400,Manhattan,36061022400
+"Census Tract 232, New York County, New York",37.7,71.7,28800.0,30.2,18.4,2.4,36,061,023200,Manhattan,36061023200
+"Census Tract 239, New York County, New York",42.8,64.1,41036.0,22.6,14.0,3.6,36,061,023900,Manhattan,36061023900
+"Census Tract 241, New York County, New York",35.0,56.7,47957.0,25.7,10.6,6.0,36,061,024100,Manhattan,36061024100
+"Census Tract 293, New York County, New York",42.9,63.6,32509.0,31.3,15.8,0.9,36,061,029300,Manhattan,36061029300
+"Census Tract 10.01, New York County, New York",31.3,52.6,73239.0,5.8,12.0,7.8,36,061,001001,Manhattan,36061001001
+"Census Tract 7, New York County, New York",24.9,62.3,117841.0,10.6,4.4,6.9,36,061,000700,Manhattan,36061000700
+"Census Tract 103, New York County, New York",22.4,47.8,94607.0,8.4,3.8,0.4,36,061,010300,Manhattan,36061010300
+"Census Tract 66, New York County, New York",27.8,49.3,64963.0,14.7,3.3,7.2,36,061,006600,Manhattan,36061006600
+"Census Tract 68, New York County, New York",22.7,56.9,109526.0,11.2,8.3,12.1,36,061,006800,Manhattan,36061006800
+"Census Tract 82, New York County, New York",24.1,30.1,107925.0,7.4,0.9,9.2,36,061,008200,Manhattan,36061008200
+"Census Tract 84, New York County, New York",19.9,35.8,120938.0,15.4,7.3,10.3,36,061,008400,Manhattan,36061008400
+"Census Tract 16, New York County, New York",29.4,52.9,31452.0,34.6,4.7,4.5,36,061,001600,Manhattan,36061001600
+"Census Tract 28, New York County, New York",33.8,61.7,30056.0,34.7,12.0,1.5,36,061,002800,Manhattan,36061002800
+"Census Tract 13, New York County, New York",22.8,59.4,123558.0,7.4,3.3,6.9,36,061,001300,Manhattan,36061001300
+"Census Tract 14.02, New York County, New York",32.8,71.4,24375.0,31.0,5.2,7.6,36,061,001402,Manhattan,36061001402
+"Census Tract 22.01, New York County, New York",36.4,75.1,34988.0,27.7,13.0,1.7,36,061,002201,Manhattan,36061002201
+"Census Tract 30.01, New York County, New York",28.8,64.4,62199.0,16.0,9.3,2.8,36,061,003001,Manhattan,36061003001
+"Census Tract 31, New York County, New York",23.5,54.9,183500.0,13.1,12.4,6.1,36,061,003100,Manhattan,36061003100
+"Census Tract 34, New York County, New York",30.0,55.5,67166.0,24.1,5.1,6.0,36,061,003400,Manhattan,36061003400
+"Census Tract 118, New York County, New York",25.5,34.5,125588.0,6.5,3.4,8.6,36,061,011800,Manhattan,36061011800
+"Census Tract 159, New York County, New York",30.1,73.2,117900.0,10.9,1.3,9.1,36,061,015900,Manhattan,36061015900
+"Census Tract 245, New York County, New York",37.0,64.3,35394.0,30.8,10.3,6.2,36,061,024500,Manhattan,36061024500
+"Census Tract 20, New York County, New York",43.5,68.8,16778.0,48.1,14.1,0.0,36,061,002000,Manhattan,36061002000
+"Census Tract 39, New York County, New York",28.3,50.6,135250.0,6.2,2.8,9.6,36,061,003900,Manhattan,36061003900
+"Census Tract 41, New York County, New York",24.9,54.0,59570.0,18.5,5.8,2.9,36,061,004100,Manhattan,36061004100
+"Census Tract 220, New York County, New York",37.6,76.5,47808.0,22.5,8.3,3.6,36,061,022000,Manhattan,36061022000
+"Census Tract 223.01, New York County, New York",38.6,85.0,37500.0,24.6,9.6,1.7,36,061,022301,Manhattan,36061022301
+"Census Tract 233, New York County, New York",36.0,73.0,41552.0,26.0,6.4,8.3,36,061,023300,Manhattan,36061023300
+"Census Tract 234, New York County, New York",34.9,73.6,38854.0,31.7,18.9,6.1,36,061,023400,Manhattan,36061023400
+"Census Tract 247, New York County, New York",35.8,68.9,40559.0,22.9,9.4,10.8,36,061,024700,Manhattan,36061024700
+"Census Tract 249, New York County, New York",42.2,64.0,37679.0,29.6,22.4,0.0,36,061,024900,Manhattan,36061024900
+"Census Tract 261, New York County, New York",40.1,68.0,29702.0,34.2,19.4,3.2,36,061,026100,Manhattan,36061026100
+"Census Tract 263, New York County, New York",38.4,61.7,29308.0,29.1,12.1,8.2,36,061,026300,Manhattan,36061026300
+"Census Tract 275, New York County, New York",40.8,56.8,91552.0,7.7,14.9,10.0,36,061,027500,Manhattan,36061027500
+"Census Tract 285, New York County, New York",42.4,76.1,36500.0,28.1,23.4,5.3,36,061,028500,Manhattan,36061028500
+"Census Tract 59, New York County, New York",22.4,47.2,103672.0,3.9,1.6,5.9,36,061,005900,Manhattan,36061005900
+"Census Tract 67, New York County, New York",23.4,51.1,88492.0,4.9,5.7,10.1,36,061,006700,Manhattan,36061006700
+"Census Tract 69, New York County, New York",26.4,44.9,183750.0,7.4,3.4,14.9,36,061,006900,Manhattan,36061006900
+"Census Tract 70, New York County, New York",24.5,43.8,101848.0,9.9,2.6,2.9,36,061,007000,Manhattan,36061007000
+"Census Tract 73, New York County, New York",23.0,49.5,97149.0,7.0,6.2,10.8,36,061,007300,Manhattan,36061007300
+"Census Tract 76, New York County, New York",23.4,36.5,103264.0,18.6,3.5,7.2,36,061,007600,Manhattan,36061007600
+"Census Tract 81, New York County, New York",23.8,55.9,111476.0,10.2,4.8,6.2,36,061,008100,Manhattan,36061008100
+"Census Tract 91, New York County, New York",23.4,51.6,111505.0,13.2,5.9,11.8,36,061,009100,Manhattan,36061009100
+"Census Tract 93, New York County, New York",30.4,37.8,76058.0,24.6,7.0,10.3,36,061,009300,Manhattan,36061009300
+"Census Tract 177, New York County, New York",33.7,66.3,77957.0,17.7,5.6,6.2,36,061,017700,Manhattan,36061017700
+"Census Tract 156.01, New York County, New York",35.3,67.0,88620.0,9.7,2.5,5.1,36,061,015601,Manhattan,36061015601
+"Census Tract 160.01, New York County, New York",33.5,41.8,222222.0,2.0,4.3,18.5,36,061,016001,Manhattan,36061016001
+"Census Tract 162, New York County, New York",33.8,58.3,21577.0,40.1,22.8,4.9,36,061,016200,Manhattan,36061016200
+"Census Tract 186, New York County, New York",35.4,80.6,24769.0,44.4,8.3,12.4,36,061,018600,Manhattan,36061018600
+"Census Tract 200, New York County, New York",32.4,70.6,66000.0,12.4,3.1,9.3,36,061,020000,Manhattan,36061020000
+"Census Tract 201.02, New York County, New York",32.9,71.8,54563.0,18.5,9.3,6.3,36,061,020102,Manhattan,36061020102
+"Census Tract 214, New York County, New York",40.3,77.9,44405.0,25.6,11.0,4.8,36,061,021400,Manhattan,36061021400
+"Census Tract 221.02, New York County, New York",37.9,73.8,42284.0,14.5,10.6,4.8,36,061,022102,Manhattan,36061022102
+"Census Tract 228, New York County, New York",39.9,66.0,33910.0,30.5,20.8,9.1,36,061,022800,Manhattan,36061022800
+"Census Tract 229, New York County, New York",41.5,70.7,34898.0,28.8,14.5,8.1,36,061,022900,Manhattan,36061022900
+"Census Tract 235.02, New York County, New York",43.8,76.9,29293.0,22.2,14.7,7.1,36,061,023502,Manhattan,36061023502
+"Census Tract 226, New York County, New York",36.2,78.4,36627.0,34.4,7.2,5.7,36,061,022600,Manhattan,36061022600
+"Census Tract 265, New York County, New York",41.5,77.5,61695.0,16.5,10.2,4.6,36,061,026500,Manhattan,36061026500
+"Census Tract 38, New York County, New York",28.7,58.1,64800.0,13.9,4.9,4.0,36,061,003800,Manhattan,36061003800
+"Census Tract 58, New York County, New York",25.8,46.3,157934.0,4.7,6.6,6.5,36,061,005800,Manhattan,36061005800
+"Census Tract 88, New York County, New York",29.9,30.6,100179.0,7.6,4.1,10.1,36,061,008800,Manhattan,36061008800
+"Census Tract 120, New York County, New York",24.5,31.5,148833.0,6.4,3.5,18.7,36,061,012000,Manhattan,36061012000
+"Census Tract 155, New York County, New York",29.7,64.0,106157.0,5.8,7.5,12.1,36,061,015500,Manhattan,36061015500
+"Census Tract 166, New York County, New York",30.8,71.9,35306.0,24.5,8.3,5.2,36,061,016600,Manhattan,36061016600
+"Census Tract 167, New York County, New York",26.7,67.7,113276.0,8.0,4.1,10.4,36,061,016700,Manhattan,36061016700
+"Census Tract 181, New York County, New York",30.8,69.7,70075.0,7.4,13.6,7.0,36,061,018100,Manhattan,36061018100
+"Census Tract 209.01, New York County, New York",34.5,84.0,32848.0,35.4,6.8,5.3,36,061,020901,Manhattan,36061020901
+"Census Tract 223.02, New York County, New York",41.1,71.6,24241.0,36.8,14.6,7.1,36,061,022302,Manhattan,36061022302
+"Census Tract 253, New York County, New York",32.6,66.8,36780.0,27.9,17.8,6.2,36,061,025300,Manhattan,36061025300
+"Census Tract 42, New York County, New York",21.6,47.7,146304.0,11.5,6.5,9.4,36,061,004200,Manhattan,36061004200
+"Census Tract 57, New York County, New York",25.4,54.3,150833.0,4.5,4.8,8.5,36,061,005700,Manhattan,36061005700
+"Census Tract 87, New York County, New York",23.5,52.9,122569.0,4.6,4.8,3.7,36,061,008700,Manhattan,36061008700
+"Census Tract 271, New York County, New York",40.1,60.5,49750.0,27.6,13.7,6.7,36,061,027100,Manhattan,36061027100
+"Census Tract 303, New York County, New York",41.4,69.9,54718.0,32.6,10.4,9.4,36,061,030300,Manhattan,36061030300
+"Census Tract 307, New York County, New York",44.6,70.8,71250.0,5.3,8.0,4.6,36,061,030700,Manhattan,36061030700
+"Census Tract 10.02, New York County, New York",40.9,70.5,17560.0,38.9,18.3,0.0,36,061,001002,Manhattan,36061001002
+"Census Tract 18, New York County, New York",29.8,55.1,59416.0,26.0,4.2,11.3,36,061,001800,Manhattan,36061001800
+"Census Tract 211, New York County, New York",33.4,63.7,53389.0,29.5,5.5,6.6,36,061,021100,Manhattan,36061021100
+"Census Tract 216, New York County, New York",32.5,76.7,46250.0,23.6,8.2,4.8,36,061,021600,Manhattan,36061021600
+"Census Tract 219, New York County, New York",40.7,86.0,19025.0,43.0,9.0,2.8,36,061,021900,Manhattan,36061021900
+"Census Tract 237, New York County, New York",41.1,78.3,37232.0,17.2,8.3,1.9,36,061,023700,Manhattan,36061023700
+"Census Tract 251, New York County, New York",39.4,68.6,28688.0,32.7,18.4,4.8,36,061,025100,Manhattan,36061025100
+"Census Tract 267, New York County, New York",36.1,50.4,39033.0,18.5,10.0,0.8,36,061,026700,Manhattan,36061026700
+"Census Tract 37, New York County, New York",24.5,56.2,129904.0,4.9,3.4,7.2,36,061,003700,Manhattan,36061003700
+"Census Tract 86.01, New York County, New York",24.6,35.4,142299.0,5.6,3.6,5.2,36,061,008601,Manhattan,36061008601
+"Census Tract 86.03, New York County, New York",26.1,25.0,142304.0,5.1,3.7,9.0,36,061,008603,Manhattan,36061008603
+"Census Tract 44, New York County, New York",29.7,58.1,93010.0,13.1,2.6,9.2,36,061,004400,Manhattan,36061004400
+"Census Tract 172, New York County, New York",32.0,72.5,35017.0,22.5,13.1,7.3,36,061,017200,Manhattan,36061017200
+"Census Tract 213.03, New York County, New York",36.9,71.6,37628.0,34.7,4.1,9.9,36,061,021303,Manhattan,36061021303
+"Census Tract 215, New York County, New York",31.2,71.9,33477.0,28.3,9.6,7.5,36,061,021500,Manhattan,36061021500
+"Census Tract 227, New York County, New York",35.6,77.8,47597.0,26.8,9.9,6.1,36,061,022700,Manhattan,36061022700
+"Census Tract 231, New York County, New York",39.0,81.7,45262.0,22.1,9.7,1.3,36,061,023100,Manhattan,36061023100
+"Census Tract 238.01, New York County, New York",37.0,79.6,86712.0,10.2,5.1,1.6,36,061,023801,Manhattan,36061023801
+"Census Tract 238.02, New York County, New York",39.9,70.9,114545.0,18.2,7.0,7.5,36,061,023802,Manhattan,36061023802
+"Census Tract 242, New York County, New York",37.1,78.4,18275.0,48.2,10.4,1.9,36,061,024200,Manhattan,36061024200
+"Census Tract 257, New York County, New York",36.2,75.3,76686.0,10.9,8.5,10.5,36,061,025700,Manhattan,36061025700
+"Census Tract 259, New York County, New York",33.3,68.0,54913.0,25.0,11.9,1.6,36,061,025900,Manhattan,36061025900
+"Census Tract 299, New York County, New York",46.9,76.8,23661.0,37.6,19.3,2.4,36,061,029900,Manhattan,36061029900
+"Census Tract 317.03, New York County, New York",23.6,45.1,182401.0,4.3,2.7,4.1,36,061,031703,Manhattan,36061031703
+"Census Tract 198, New York County, New York",29.6,65.9,70481.0,16.8,9.1,7.8,36,061,019800,Manhattan,36061019800
+"Census Tract 12, New York County, New York",30.7,54.6,41705.0,17.6,5.5,2.6,36,061,001200,Manhattan,36061001200
+"Census Tract 14.01, New York County, New York",29.0,60.1,76250.0,5.7,1.8,8.2,36,061,001401,Manhattan,36061001401
+"Census Tract 15.01, New York County, New York",22.5,50.6,81867.0,10.3,5.0,5.0,36,061,001501,Manhattan,36061001501
+"Census Tract 43, New York County, New York",27.8,66.6,71635.0,18.0,8.6,5.8,36,061,004300,Manhattan,36061004300
+"Census Tract 49, New York County, New York",22.9,46.8,97929.0,4.7,5.0,9.2,36,061,004900,Manhattan,36061004900
+"Census Tract 36.02, New York County, New York",27.1,56.7,81250.0,24.7,15.5,11.8,36,061,003602,Manhattan,36061003602
+"Census Tract 48, New York County, New York",23.9,52.3,106789.0,9.3,7.3,10.1,36,061,004800,Manhattan,36061004800
+"Census Tract 317.04, New York County, New York",33.5,60.3,152692.0,3.8,3.9,5.0,36,061,031704,Manhattan,36061031704
+"Census Tract 109, New York County, New York",24.1,48.4,135750.0,16.7,4.3,5.7,36,061,010900,Manhattan,36061010900
+"Census Tract 75, New York County, New York",25.7,46.4,113682.0,4.5,8.0,14.6,36,061,007500,Manhattan,36061007500
+"Census Tract 83, New York County, New York",28.0,68.0,69303.0,18.5,11.3,6.4,36,061,008300,Manhattan,36061008300
+"Census Tract 97, New York County, New York",29.2,39.9,43948.0,16.9,12.4,1.3,36,061,009700,Manhattan,36061009700
+"Census Tract 106.01, New York County, New York",30.9,39.2,125488.0,5.5,6.5,12.0,36,061,010601,Manhattan,36061010601
+"Census Tract 113, New York County, New York",17.9,44.4,82361.0,19.0,0.0,3.7,36,061,011300,Manhattan,36061011300
+"Census Tract 121, New York County, New York",25.8,41.8,62301.0,9.9,7.1,7.5,36,061,012100,Manhattan,36061012100
+"Census Tract 122, New York County, New York",23.1,17.3,156218.0,3.2,0.8,18.4,36,061,012200,Manhattan,36061012200
+"Census Tract 126, New York County, New York",34.9,43.7,112614.0,2.7,2.3,9.8,36,061,012600,Manhattan,36061012600
+"Census Tract 129, New York County, New York",28.5,48.2,111290.0,12.5,7.4,3.0,36,061,012900,Manhattan,36061012900
+"Census Tract 137, New York County, New York",24.0,40.0,142982.0,8.4,4.5,13.3,36,061,013700,Manhattan,36061013700
+"Census Tract 138, New York County, New York",31.3,63.6,118358.0,7.4,5.3,9.7,36,061,013800,Manhattan,36061013800
+"Census Tract 152, New York County, New York",34.5,66.1,82308.0,13.1,3.1,13.4,36,061,015200,Manhattan,36061015200
+"Census Tract 101, New York County, New York",23.6,41.1,159821.0,11.4,5.7,7.9,36,061,010100,Manhattan,36061010100
+"Census Tract 127, New York County, New York",25.3,43.7,69578.0,12.5,6.6,7.8,36,061,012700,Manhattan,36061012700
+"Census Tract 131, New York County, New York",27.5,44.4,85195.0,20.0,4.4,4.3,36,061,013100,Manhattan,36061013100
+"Census Tract 133, New York County, New York",25.3,50.5,81974.0,14.5,7.9,3.3,36,061,013300,Manhattan,36061013300
+"Census Tract 142, New York County, New York",24.1,27.8,235455.0,5.9,1.9,14.9,36,061,014200,Manhattan,36061014200
+"Census Tract 149, New York County, New York",27.9,46.6,154972.0,5.1,4.3,7.6,36,061,014900,Manhattan,36061014900
+"Census Tract 150.01, New York County, New York",29.2,57.3,151625.0,12.4,3.0,8.1,36,061,015001,Manhattan,36061015001
+"Census Tract 150.02, New York County, New York",28.0,49.1,156500.0,3.5,2.6,16.9,36,061,015002,Manhattan,36061015002
+"Census Tract 154, New York County, New York",37.9,67.1,80803.0,9.2,6.8,5.0,36,061,015400,Manhattan,36061015400
+"Census Tract 163, New York County, New York",29.1,71.0,109971.0,8.6,4.3,8.9,36,061,016300,Manhattan,36061016300
+"Census Tract 89, New York County, New York",27.6,52.9,89315.0,12.3,3.2,9.8,36,061,008900,Manhattan,36061008900
+"Census Tract 99, New York County, New York",26.0,42.5,128906.0,7.4,5.8,4.1,36,061,009900,Manhattan,36061009900
+"Census Tract 6, New York County, New York",30.3,37.0,19863.0,44.7,8.7,2.9,36,061,000600,Manhattan,36061000600
+"Census Tract 8, New York County, New York",33.2,43.1,27137.0,28.9,10.3,2.4,36,061,000800,Manhattan,36061000800
+"Census Tract 24, New York County, New York",34.8,55.7,22676.0,38.2,10.5,4.7,36,061,002400,Manhattan,36061002400
+"Census Tract 25, New York County, New York",40.6,59.6,16527.0,47.6,17.8,0.0,36,061,002500,Manhattan,36061002500
+"Census Tract 29, New York County, New York",29.4,45.5,30629.0,20.6,3.3,2.1,36,061,002900,Manhattan,36061002900
+"Census Tract 54, New York County, New York",23.2,57.2,132813.0,4.7,1.2,8.6,36,061,005400,Manhattan,36061005400
+"Census Tract 71, New York County, New York",27.0,60.4,125028.0,8.2,4.3,7.8,36,061,007100,Manhattan,36061007100
+"Census Tract 79, New York County, New York",24.7,49.4,83922.0,8.8,4.7,11.6,36,061,007900,Manhattan,36061007900
+"Census Tract 108, New York County, New York",26.9,44.1,127109.0,3.8,4.0,9.6,36,061,010800,Manhattan,36061010800
+"Census Tract 110, New York County, New York",24.9,49.6,103797.0,5.4,6.7,4.8,36,061,011000,Manhattan,36061011000
+"Census Tract 112.01, New York County, New York",20.2,29.1,138250.0,7.4,2.1,14.2,36,061,011201,Manhattan,36061011201
+"Census Tract 116, New York County, New York",25.7,44.0,72152.0,5.4,5.0,6.9,36,061,011600,Manhattan,36061011600
+"Census Tract 124, New York County, New York",28.2,45.8,117225.0,7.1,1.9,3.7,36,061,012400,Manhattan,36061012400
+"Census Tract 115, New York County, New York",30.2,45.0,86741.0,18.8,7.7,6.1,36,061,011500,Manhattan,36061011500
+"Census Tract 117, New York County, New York",26.8,53.2,107125.0,12.4,6.3,2.5,36,061,011700,Manhattan,36061011700
+"Census Tract 130, New York County, New York",21.2,19.1,244375.0,7.1,4.2,12.3,36,061,013000,Manhattan,36061013000
+"Census Tract 135, New York County, New York",28.0,41.0,62290.0,18.6,5.7,3.7,36,061,013500,Manhattan,36061013500
+"Census Tract 144.01, New York County, New York",33.6,52.6,101750.0,4.1,5.0,11.8,36,061,014401,Manhattan,36061014401
+"Census Tract 146.02, New York County, New York",30.7,70.2,97632.0,4.4,3.6,8.7,36,061,014602,Manhattan,36061014602
+"Census Tract 148.02, New York County, New York",31.1,66.8,109493.0,5.1,1.4,10.3,36,061,014802,Manhattan,36061014802
+"Census Tract 158.02, New York County, New York",28.7,67.5,100642.0,5.7,4.6,2.5,36,061,015802,Manhattan,36061015802
+"Census Tract 160.02, New York County, New York",24.1,46.6,87167.0,11.0,5.0,11.4,36,061,016002,Manhattan,36061016002
+"Census Tract 96, New York County, New York",25.7,26.7,135313.0,8.1,4.1,7.8,36,061,009600,Manhattan,36061009600
+"Census Tract 100, New York County, New York",24.9,42.3,112098.0,8.5,3.6,3.8,36,061,010000,Manhattan,36061010000
+"Census Tract 106.02, New York County, New York",23.9,25.5,120053.0,4.6,2.5,5.6,36,061,010602,Manhattan,36061010602
+"Census Tract 114.01, New York County, New York",20.7,37.0,197500.0,3.2,0.6,8.5,36,061,011401,Manhattan,36061011401
+"Census Tract 128, New York County, New York",26.0,40.5,175259.0,4.5,5.9,10.5,36,061,012800,Manhattan,36061012800
+"Census Tract 153, New York County, New York",25.4,53.0,140083.0,4.0,6.1,6.6,36,061,015300,Manhattan,36061015300
+"Census Tract 170, New York County, New York",36.9,82.4,30711.0,30.1,12.8,0.8,36,061,017000,Manhattan,36061017000
+"Census Tract 52, New York County, New York",21.0,48.4,168375.0,11.9,5.6,13.5,36,061,005200,Manhattan,36061005200
+"Census Tract 55.01, New York County, New York",23.0,30.3,134417.0,4.8,3.6,2.6,36,061,005501,Manhattan,36061005501
+"Census Tract 60, New York County, New York",30.7,47.2,106310.0,11.0,5.7,5.2,36,061,006000,Manhattan,36061006000
+"Census Tract 61, New York County, New York",23.4,48.2,108973.0,5.0,4.0,12.4,36,061,006100,Manhattan,36061006100
+"Census Tract 72, New York County, New York",25.0,52.4,104272.0,9.2,6.7,6.8,36,061,007200,Manhattan,36061007200
+"Census Tract 74, New York County, New York",20.8,37.0,128618.0,12.2,5.7,4.9,36,061,007400,Manhattan,36061007400
+"Census Tract 2.01, New York County, New York",33.0,45.4,20521.0,48.6,2.6,1.7,36,061,000201,Manhattan,36061000201
+"Census Tract 277, New York County, New York",44.2,73.0,28449.0,38.6,10.0,5.1,36,061,027700,Manhattan,36061027700
+"Census Tract 111, New York County, New York",31.1,53.1,105750.0,16.1,4.2,4.6,36,061,011100,Manhattan,36061011100
+"Census Tract 114.02, New York County, New York",23.4,39.1,151131.0,4.0,5.7,9.1,36,061,011402,Manhattan,36061011402
+"Census Tract 140, New York County, New York",26.8,61.2,137700.0,6.9,5.5,8.9,36,061,014000,Manhattan,36061014000
+"Census Tract 151, New York County, New York",32.4,61.2,67125.0,21.9,6.2,4.6,36,061,015100,Manhattan,36061015100
+"Census Tract 156.02, New York County, New York",32.6,82.2,50455.0,21.7,10.1,3.4,36,061,015602,Manhattan,36061015602
+"Census Tract 168, New York County, New York",35.2,69.9,26136.0,37.5,15.1,0.6,36,061,016800,Manhattan,36061016800
+"Census Tract 173, New York County, New York",35.4,73.6,113750.0,3.9,3.2,9.1,36,061,017300,Manhattan,36061017300
+"Census Tract 175, New York County, New York",27.2,71.3,137344.0,3.5,4.2,8.8,36,061,017500,Manhattan,36061017500
+"Census Tract 192, New York County, New York",33.7,77.2,16206.0,56.6,18.8,2.9,36,061,019200,Manhattan,36061019200
+"Census Tract 195, New York County, New York",37.2,76.0,117045.0,12.3,6.6,7.5,36,061,019500,Manhattan,36061019500
+"Census Tract 199, New York County, New York",28.0,53.5,76902.0,19.2,6.4,4.5,36,061,019900,Manhattan,36061019900
+"Census Tract 205, New York County, New York",24.2,36.0,111875.0,3.9,5.1,14.0,36,061,020500,Manhattan,36061020500
+"Census Tract 230, New York County, New York",38.5,70.6,35569.0,27.7,13.9,6.0,36,061,023000,Manhattan,36061023000
+"Census Tract 235.01, New York County, New York",39.3,72.9,34846.0,41.3,14.0,5.0,36,061,023501,Manhattan,36061023501
+"Census Tract 236, New York County, New York",35.9,77.5,36540.0,18.5,23.8,0.0,36,061,023600,Manhattan,36061023600
+"Census Tract 169, New York County, New York",30.4,73.9,107401.0,7.5,3.3,7.9,36,061,016900,Manhattan,36061016900
+"Census Tract 171, New York County, New York",30.6,77.7,115331.0,8.4,3.9,7.0,36,061,017100,Manhattan,36061017100
+"Census Tract 179, New York County, New York",32.5,71.3,75997.0,10.8,5.3,10.8,36,061,017900,Manhattan,36061017900
+"Census Tract 182, New York County, New York",33.3,82.7,23451.0,43.0,9.6,2.9,36,061,018200,Manhattan,36061018200
+"Census Tract 183, New York County, New York",30.9,67.4,100956.0,6.4,3.9,7.7,36,061,018300,Manhattan,36061018300
+"Census Tract 269, New York County, New York",42.1,67.2,32585.0,22.3,10.4,0.0,36,061,026900,Manhattan,36061026900
+"Census Tract 281, New York County, New York",40.7,68.6,107727.0,5.2,6.1,9.2,36,061,028100,Manhattan,36061028100
